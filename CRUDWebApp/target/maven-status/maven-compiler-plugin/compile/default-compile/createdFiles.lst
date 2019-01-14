@@ -1,0 +1,6 @@
+com\jesusjaramillo\dao\StudentDao.class
+com\jesusjaramillo\service\StudentService.class
+com\jesusjaramillo\dao\impl\StudentDaoImpl.class
+com\jesusjaramillo\service\Impl\StudentServiceImpl.class
+com\jesusjaramillo\model\Student.class
+com\jesusjaramillo\controller\StudentController.class
